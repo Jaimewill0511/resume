@@ -1,0 +1,33 @@
+/*
+ * Globals
+ */
+
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+}
+
+
+/*
+ * Base structure
+ */
+
+body {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+ 
+}
+
+.dcontainer {
+  margin-top: 100px;
+  text-align: center;
+}
+
+
+/*
+ * Header
+ */
+
